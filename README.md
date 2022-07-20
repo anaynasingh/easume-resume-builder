@@ -6,3 +6,5 @@
 2. **Material UI** and **React-Bootstrap** for styling.
 
 
+Tired of creating your resumes on word documents?
+Try our resume builder website and generate a professional resume within minutes!
