@@ -7,4 +7,4 @@
 
 
 Tired of creating your resumes on word documents?
-Try our resume builder website and generate a professional resume within minutes!
+Now auto-generate your resume within miutes without having to worry about all the hassle. Just enter your details and the newly created resume will be ready to download in pdf format.
